@@ -2,7 +2,6 @@
 
   - 🖥 Aprendendo JavaScript;
   - 🎓 Cursando Ensino Médio;
-  - 👨‍💻 Iniciarei Técnico em Desenvolvimento de Sistemas;
 
   ##
   
